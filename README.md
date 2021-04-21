@@ -6,6 +6,10 @@ This is body text under the first header
 ## Header 2
 ### Header 3
 #### Header 4
+this is a list
+* Item 1
+* Item 2
+* Item 3
 
 ## Sample code
 
@@ -16,3 +20,4 @@ if name == Eric
 print ("****")
 
 ```
+
